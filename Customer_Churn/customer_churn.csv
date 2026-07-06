@@ -1,0 +1,401 @@
+Customer_ID,Segment,Industry,Region,Tenure_Months,Monthly_Spend_AED,Num_Orders,Support_Tickets,Discount_Given_Pct,Payment_Delays,Last_Order_Days_Ago,Churned
+CUST-1000,Government,Construction,Abu Dhabi,39,3092.63,16,2,0,2,103,0
+CUST-1001,Enterprise,Healthcare,Riyadh,13,6613.77,40,9,0,2,104,1
+CUST-1002,SME,Logistics,Riyadh,43,3095.51,37,5,0,5,140,1
+CUST-1003,Enterprise,Construction,Sharjah,26,1118.45,36,0,10,1,97,0
+CUST-1004,Enterprise,Construction,Doha,13,9279.88,4,5,0,1,46,0
+CUST-1005,Government,Healthcare,Abu Dhabi,33,10074.34,3,1,0,1,126,0
+CUST-1006,Government,Food & Beverage,Riyadh,41,1747.27,20,9,0,3,89,0
+CUST-1007,SME,Healthcare,Riyadh,13,13549.57,4,10,0,3,70,0
+CUST-1008,Government,Logistics,Sharjah,45,7404.08,4,2,20,5,158,1
+CUST-1009,SME,Healthcare,Riyadh,8,1899.01,10,4,0,1,109,0
+CUST-1010,SME,Logistics,Doha,21,11673.22,52,3,5,0,97,0
+CUST-1011,SME,Food & Beverage,Doha,19,661.65,54,0,5,1,101,1
+CUST-1012,Government,Retail,Riyadh,25,6503.95,24,8,0,1,14,0
+CUST-1013,Retail,Construction,Riyadh,15,5015.57,42,3,20,5,84,0
+CUST-1014,Enterprise,Retail,Abu Dhabi,46,10277.3,16,6,5,3,25,0
+CUST-1015,Government,Construction,Sharjah,5,7795.68,59,10,5,3,141,1
+CUST-1016,SME,Retail,Riyadh,19,6435.32,43,9,0,2,102,1
+CUST-1017,Government,Logistics,Riyadh,22,13368.47,23,0,20,2,80,0
+CUST-1018,SME,Logistics,Sharjah,43,6542.33,49,3,10,2,173,0
+CUST-1019,Government,Food & Beverage,Dubai,33,8210.35,1,8,5,5,47,1
+CUST-1020,Government,Logistics,Sharjah,48,12846.06,27,7,15,4,165,1
+CUST-1021,Retail,Logistics,Dubai,7,12192.46,5,9,0,0,111,1
+CUST-1022,Retail,Retail,Doha,41,14250.54,38,9,5,1,30,0
+CUST-1023,Government,Construction,Abu Dhabi,17,7181.92,9,2,10,5,104,1
+CUST-1024,Government,Healthcare,Abu Dhabi,24,4127.43,18,7,15,5,102,1
+CUST-1025,SME,Construction,Doha,41,13394.36,31,10,0,0,141,1
+CUST-1026,SME,Construction,Doha,1,2165.58,51,7,0,2,172,1
+CUST-1027,Enterprise,Healthcare,Doha,18,9685.86,38,5,10,2,47,0
+CUST-1028,SME,Healthcare,Dubai,26,1024.05,22,8,0,4,79,1
+CUST-1029,SME,Construction,Dubai,45,11737.95,15,3,0,3,48,0
+CUST-1030,Retail,Retail,Sharjah,5,8615.66,13,8,0,5,95,1
+CUST-1031,Enterprise,Food & Beverage,Abu Dhabi,9,2677.87,6,0,15,5,102,1
+CUST-1032,SME,Retail,Abu Dhabi,40,9319.84,40,2,5,0,92,0
+CUST-1033,Government,Logistics,Sharjah,12,11213.32,10,7,20,4,8,1
+CUST-1034,SME,Construction,Dubai,16,8717.85,47,9,0,1,47,0
+CUST-1035,Government,Retail,Sharjah,21,9044.8,38,6,0,2,45,0
+CUST-1036,SME,Food & Beverage,Sharjah,36,4788.11,8,7,10,0,15,0
+CUST-1037,Retail,Logistics,Doha,44,5101.23,22,10,5,0,101,1
+CUST-1038,Retail,Healthcare,Abu Dhabi,36,2685.83,44,0,5,5,107,1
+CUST-1039,Government,Healthcare,Abu Dhabi,12,8099.73,4,3,0,5,71,0
+CUST-1040,SME,Healthcare,Dubai,28,562.62,2,3,0,1,166,1
+CUST-1041,Retail,Food & Beverage,Sharjah,12,8906.44,28,2,0,5,14,0
+CUST-1042,Government,Construction,Dubai,11,9029.3,22,6,0,3,161,1
+CUST-1043,Enterprise,Retail,Doha,11,3873.0,37,7,0,5,30,1
+CUST-1044,Government,Healthcare,Abu Dhabi,12,2451.9,48,3,0,5,70,0
+CUST-1045,SME,Healthcare,Doha,35,1620.11,16,8,0,5,112,1
+CUST-1046,Government,Healthcare,Doha,5,4003.52,21,9,5,3,53,0
+CUST-1047,Enterprise,Food & Beverage,Dubai,28,1401.22,13,0,20,2,52,0
+CUST-1048,Retail,Retail,Dubai,37,8189.56,13,5,0,1,93,0
+CUST-1049,Government,Logistics,Sharjah,34,4275.48,29,0,0,2,64,0
+CUST-1050,SME,Healthcare,Dubai,25,761.86,21,6,0,4,44,1
+CUST-1051,Enterprise,Food & Beverage,Dubai,12,3572.23,22,9,5,0,170,1
+CUST-1052,Enterprise,Construction,Dubai,43,6819.79,45,5,10,3,147,0
+CUST-1053,Government,Healthcare,Sharjah,21,10825.09,52,1,5,4,67,0
+CUST-1054,Enterprise,Food & Beverage,Abu Dhabi,18,5227.91,7,4,5,4,164,1
+CUST-1055,SME,Logistics,Riyadh,43,6948.21,2,9,20,2,24,0
+CUST-1056,Government,Food & Beverage,Dubai,19,7665.69,58,7,10,2,135,1
+CUST-1057,SME,Healthcare,Doha,7,13783.97,26,3,0,4,76,0
+CUST-1058,Government,Construction,Sharjah,39,1734.24,2,0,15,0,167,0
+CUST-1059,SME,Construction,Abu Dhabi,28,13306.29,43,9,15,0,10,0
+CUST-1060,Enterprise,Retail,Abu Dhabi,14,10182.62,7,0,10,2,51,0
+CUST-1061,SME,Retail,Abu Dhabi,46,6522.88,20,2,10,3,166,0
+CUST-1062,Enterprise,Food & Beverage,Sharjah,34,4906.39,55,2,5,5,36,0
+CUST-1063,Enterprise,Healthcare,Dubai,17,7365.22,9,4,15,3,60,0
+CUST-1064,Retail,Construction,Sharjah,33,4167.91,12,7,5,1,53,0
+CUST-1065,Retail,Healthcare,Abu Dhabi,33,3834.33,23,9,15,0,63,0
+CUST-1066,Government,Logistics,Doha,1,5397.51,51,6,15,0,7,0
+CUST-1067,Government,Food & Beverage,Riyadh,30,2046.54,1,3,0,1,81,0
+CUST-1068,SME,Food & Beverage,Abu Dhabi,47,4238.32,20,2,15,5,169,1
+CUST-1069,SME,Food & Beverage,Doha,8,5192.74,54,3,5,3,90,0
+CUST-1070,Enterprise,Construction,Sharjah,31,8362.79,23,3,5,1,16,0
+CUST-1071,Retail,Healthcare,Abu Dhabi,14,12259.01,41,8,15,3,126,1
+CUST-1072,SME,Healthcare,Sharjah,36,3061.34,34,8,5,0,9,0
+CUST-1073,Retail,Logistics,Abu Dhabi,28,1163.99,35,5,20,4,79,0
+CUST-1074,Retail,Logistics,Doha,22,10549.05,50,1,20,4,80,0
+CUST-1075,Enterprise,Retail,Riyadh,13,9717.82,3,2,20,0,126,0
+CUST-1076,Government,Construction,Doha,35,6002.25,38,10,10,2,31,0
+CUST-1077,SME,Retail,Abu Dhabi,5,4295.14,7,0,5,3,85,0
+CUST-1078,SME,Healthcare,Dubai,39,10129.71,19,4,10,1,39,0
+CUST-1079,SME,Retail,Dubai,36,7863.82,17,2,0,3,139,0
+CUST-1080,SME,Retail,Sharjah,28,11268.36,6,5,0,3,63,0
+CUST-1081,Government,Food & Beverage,Riyadh,20,4004.22,33,0,0,3,22,0
+CUST-1082,Retail,Healthcare,Abu Dhabi,42,13941.39,23,8,0,0,8,0
+CUST-1083,SME,Food & Beverage,Riyadh,13,9826.79,49,7,10,5,5,1
+CUST-1084,SME,Food & Beverage,Doha,15,2757.12,41,6,0,1,145,1
+CUST-1085,Government,Retail,Doha,2,11667.77,47,0,5,0,165,1
+CUST-1086,Enterprise,Logistics,Doha,26,12802.63,49,7,0,2,151,1
+CUST-1087,Retail,Logistics,Dubai,22,8852.36,24,8,0,5,111,1
+CUST-1088,Retail,Logistics,Doha,17,7439.84,6,6,20,3,71,0
+CUST-1089,Retail,Construction,Dubai,36,2992.68,2,4,0,1,177,0
+CUST-1090,Enterprise,Logistics,Doha,15,4846.41,21,6,5,3,46,0
+CUST-1091,Retail,Retail,Abu Dhabi,1,2758.54,30,7,5,5,128,1
+CUST-1092,Retail,Logistics,Sharjah,37,2545.56,40,0,15,3,147,0
+CUST-1093,SME,Construction,Abu Dhabi,33,2206.87,45,6,5,3,141,1
+CUST-1094,Retail,Retail,Abu Dhabi,46,1433.5,15,10,0,3,45,0
+CUST-1095,SME,Construction,Abu Dhabi,22,1670.45,4,0,0,5,125,1
+CUST-1096,Government,Logistics,Sharjah,29,5418.92,1,2,20,4,168,1
+CUST-1097,Government,Healthcare,Riyadh,21,4516.66,11,9,0,3,150,1
+CUST-1098,Retail,Logistics,Riyadh,29,7229.18,30,10,15,3,157,1
+CUST-1099,Retail,Healthcare,Riyadh,40,7227.8,7,7,0,5,121,1
+CUST-1100,SME,Food & Beverage,Sharjah,32,668.18,28,5,0,5,55,0
+CUST-1101,SME,Food & Beverage,Doha,28,14298.13,60,0,0,1,155,0
+CUST-1102,SME,Logistics,Abu Dhabi,17,793.27,46,0,0,1,14,0
+CUST-1103,SME,Logistics,Doha,14,3593.76,49,0,0,3,72,0
+CUST-1104,Government,Retail,Sharjah,23,13759.59,22,3,5,0,170,0
+CUST-1105,Government,Food & Beverage,Abu Dhabi,38,14348.31,53,3,10,2,99,0
+CUST-1106,Retail,Logistics,Riyadh,22,9981.95,51,10,10,5,131,1
+CUST-1107,Enterprise,Construction,Dubai,17,8271.17,6,5,0,0,113,0
+CUST-1108,Retail,Food & Beverage,Abu Dhabi,24,5704.67,38,5,20,2,86,0
+CUST-1109,Retail,Construction,Abu Dhabi,39,12504.17,43,4,15,0,27,0
+CUST-1110,Government,Food & Beverage,Dubai,44,3431.91,23,6,5,1,67,0
+CUST-1111,Enterprise,Logistics,Doha,17,12143.51,26,2,20,0,92,0
+CUST-1112,Retail,Logistics,Riyadh,18,7715.63,51,2,0,5,153,1
+CUST-1113,Enterprise,Food & Beverage,Abu Dhabi,3,4925.4,23,7,0,0,40,0
+CUST-1114,Retail,Retail,Doha,17,4085.08,60,3,0,1,69,0
+CUST-1115,Government,Food & Beverage,Doha,6,12204.65,12,0,20,4,180,1
+CUST-1116,SME,Retail,Riyadh,25,5717.64,40,3,0,3,135,0
+CUST-1117,Government,Retail,Riyadh,13,6971.58,15,4,15,0,60,0
+CUST-1118,Retail,Construction,Abu Dhabi,7,8528.73,46,0,0,0,55,0
+CUST-1119,Retail,Construction,Dubai,5,1762.64,2,3,0,0,24,0
+CUST-1120,Enterprise,Food & Beverage,Dubai,47,12974.43,18,5,5,1,118,0
+CUST-1121,Government,Healthcare,Dubai,28,3105.62,13,8,10,2,24,0
+CUST-1122,Retail,Logistics,Sharjah,43,12399.84,39,0,20,1,176,0
+CUST-1123,SME,Food & Beverage,Doha,36,5084.72,42,3,15,3,33,0
+CUST-1124,Retail,Healthcare,Riyadh,48,3564.86,3,2,10,0,51,0
+CUST-1125,SME,Logistics,Abu Dhabi,41,6678.85,5,9,5,0,66,0
+CUST-1126,SME,Healthcare,Doha,2,10315.9,29,10,15,3,163,1
+CUST-1127,Retail,Healthcare,Sharjah,34,6898.78,36,7,15,2,127,1
+CUST-1128,SME,Healthcare,Doha,7,13242.99,5,10,0,1,159,1
+CUST-1129,SME,Healthcare,Abu Dhabi,34,8990.73,49,10,5,0,77,0
+CUST-1130,Government,Logistics,Sharjah,39,1257.64,39,3,15,5,69,0
+CUST-1131,Retail,Logistics,Abu Dhabi,41,11818.83,23,9,10,1,92,1
+CUST-1132,Retail,Logistics,Abu Dhabi,43,4533.83,15,9,15,4,31,1
+CUST-1133,Government,Healthcare,Abu Dhabi,31,4534.21,17,7,0,1,164,1
+CUST-1134,Retail,Food & Beverage,Doha,30,4565.91,55,5,0,3,37,0
+CUST-1135,Retail,Healthcare,Dubai,9,6142.35,33,9,15,1,142,1
+CUST-1136,Retail,Logistics,Abu Dhabi,2,12013.2,7,7,0,4,116,1
+CUST-1137,Retail,Healthcare,Riyadh,38,13220.82,48,7,0,4,26,1
+CUST-1138,Government,Healthcare,Doha,39,5846.07,23,5,0,5,178,1
+CUST-1139,Enterprise,Food & Beverage,Abu Dhabi,48,4038.43,19,9,0,1,149,1
+CUST-1140,Government,Food & Beverage,Sharjah,14,6050.5,43,7,5,5,19,1
+CUST-1141,SME,Logistics,Doha,6,1712.16,12,8,10,5,164,1
+CUST-1142,SME,Logistics,Doha,28,13433.22,52,1,0,0,89,0
+CUST-1143,Government,Logistics,Abu Dhabi,33,13965.21,5,6,0,4,79,1
+CUST-1144,Government,Logistics,Doha,47,5288.3,28,9,15,2,48,0
+CUST-1145,Government,Logistics,Abu Dhabi,10,6416.66,31,4,5,5,102,1
+CUST-1146,Retail,Food & Beverage,Doha,33,1167.99,32,8,20,4,10,1
+CUST-1147,Government,Construction,Doha,4,10280.0,60,1,10,4,165,1
+CUST-1148,Government,Construction,Dubai,13,3762.46,16,8,20,3,48,0
+CUST-1149,SME,Logistics,Sharjah,25,9927.77,59,10,5,5,21,1
+CUST-1150,Government,Food & Beverage,Abu Dhabi,27,8558.21,58,2,0,2,142,0
+CUST-1151,Retail,Logistics,Sharjah,24,2270.53,31,4,10,2,164,0
+CUST-1152,Government,Logistics,Dubai,5,12444.67,38,8,0,4,86,1
+CUST-1153,Retail,Construction,Dubai,48,1157.0,12,2,5,5,101,1
+CUST-1154,Retail,Food & Beverage,Abu Dhabi,43,4403.99,31,9,15,4,106,1
+CUST-1155,Enterprise,Logistics,Doha,6,7729.93,10,3,0,5,126,1
+CUST-1156,Retail,Food & Beverage,Riyadh,33,2094.41,46,9,20,4,42,1
+CUST-1157,Enterprise,Healthcare,Abu Dhabi,26,3822.47,15,4,20,1,168,0
+CUST-1158,SME,Food & Beverage,Sharjah,18,5535.61,52,3,10,3,150,0
+CUST-1159,Retail,Food & Beverage,Doha,32,13589.22,60,0,20,2,63,0
+CUST-1160,SME,Retail,Dubai,1,12014.61,9,6,15,0,92,1
+CUST-1161,Government,Construction,Sharjah,15,11631.79,5,5,15,5,47,0
+CUST-1162,SME,Food & Beverage,Dubai,35,5606.39,3,5,20,2,70,0
+CUST-1163,SME,Food & Beverage,Abu Dhabi,43,1281.74,7,8,0,4,116,1
+CUST-1164,Enterprise,Retail,Doha,7,13599.76,30,3,0,5,39,0
+CUST-1165,Retail,Food & Beverage,Sharjah,33,4254.77,54,6,0,1,155,1
+CUST-1166,Government,Logistics,Sharjah,42,10808.16,38,4,10,5,36,0
+CUST-1167,Enterprise,Logistics,Doha,3,1476.51,15,5,15,3,139,1
+CUST-1168,SME,Healthcare,Riyadh,46,6962.11,13,7,15,2,84,0
+CUST-1169,Government,Food & Beverage,Dubai,38,1189.77,26,4,0,2,82,0
+CUST-1170,Enterprise,Logistics,Doha,4,1523.09,51,9,5,4,54,1
+CUST-1171,SME,Logistics,Riyadh,12,3540.84,38,0,20,0,88,0
+CUST-1172,Enterprise,Construction,Riyadh,17,10797.43,13,8,0,3,68,0
+CUST-1173,Retail,Logistics,Dubai,22,14265.89,1,1,0,4,178,1
+CUST-1174,Enterprise,Construction,Abu Dhabi,15,8336.68,6,9,20,1,94,1
+CUST-1175,Government,Healthcare,Riyadh,9,4210.05,13,7,5,3,121,1
+CUST-1176,Retail,Retail,Riyadh,39,9327.87,15,7,20,5,146,1
+CUST-1177,SME,Retail,Abu Dhabi,38,11087.11,36,6,20,2,117,1
+CUST-1178,Retail,Retail,Sharjah,23,3445.18,12,4,0,2,17,0
+CUST-1179,Retail,Construction,Doha,13,11604.5,56,1,10,1,105,0
+CUST-1180,Enterprise,Construction,Doha,30,3857.33,2,8,10,4,144,1
+CUST-1181,SME,Food & Beverage,Dubai,4,5082.33,34,3,15,2,66,0
+CUST-1182,Retail,Retail,Doha,26,2238.56,8,7,0,1,146,1
+CUST-1183,SME,Food & Beverage,Abu Dhabi,36,8222.63,60,8,0,5,93,1
+CUST-1184,SME,Retail,Abu Dhabi,2,5821.52,17,1,0,1,140,1
+CUST-1185,Retail,Retail,Riyadh,41,3244.94,19,6,5,4,27,1
+CUST-1186,Government,Food & Beverage,Sharjah,40,523.2,55,8,0,2,40,0
+CUST-1187,SME,Construction,Riyadh,23,1453.55,12,7,10,3,87,0
+CUST-1188,Government,Healthcare,Riyadh,13,9013.86,17,1,0,4,174,1
+CUST-1189,SME,Construction,Sharjah,11,12079.48,29,8,10,0,8,0
+CUST-1190,Retail,Food & Beverage,Dubai,5,8905.2,4,6,10,2,157,1
+CUST-1191,Retail,Construction,Dubai,35,9673.03,29,1,10,3,59,0
+CUST-1192,SME,Food & Beverage,Riyadh,1,13217.48,3,1,0,3,49,0
+CUST-1193,Enterprise,Construction,Doha,5,5180.38,45,3,20,2,174,1
+CUST-1194,Retail,Healthcare,Dubai,34,4205.15,2,0,5,5,40,0
+CUST-1195,Retail,Healthcare,Dubai,29,7383.66,44,8,0,3,29,0
+CUST-1196,Enterprise,Food & Beverage,Riyadh,18,12172.98,48,1,10,3,53,0
+CUST-1197,Retail,Retail,Dubai,11,4881.01,37,6,0,0,160,1
+CUST-1198,Enterprise,Healthcare,Doha,21,9719.2,38,0,0,1,100,0
+CUST-1199,Retail,Retail,Abu Dhabi,24,1524.17,9,10,10,5,75,1
+CUST-1200,SME,Healthcare,Abu Dhabi,18,7527.86,47,8,0,1,148,1
+CUST-1201,SME,Construction,Sharjah,46,5204.26,26,8,20,1,142,1
+CUST-1202,Government,Construction,Riyadh,13,2163.71,19,6,15,3,137,1
+CUST-1203,Enterprise,Logistics,Sharjah,26,12659.38,7,4,0,5,178,1
+CUST-1204,SME,Healthcare,Riyadh,39,9347.21,60,8,10,0,134,1
+CUST-1205,Retail,Logistics,Dubai,8,9984.53,3,8,5,0,86,0
+CUST-1206,SME,Retail,Riyadh,13,7119.48,4,10,20,1,114,1
+CUST-1207,Enterprise,Logistics,Riyadh,23,4034.44,28,5,15,3,65,0
+CUST-1208,SME,Logistics,Dubai,45,4621.57,44,4,0,4,66,0
+CUST-1209,Retail,Food & Beverage,Doha,47,13178.76,16,6,0,5,26,1
+CUST-1210,Government,Logistics,Doha,30,2592.94,15,8,10,0,101,1
+CUST-1211,SME,Healthcare,Sharjah,23,7094.76,6,2,5,2,10,0
+CUST-1212,Government,Construction,Sharjah,15,11076.96,27,3,10,3,103,0
+CUST-1213,Enterprise,Retail,Doha,5,2424.21,5,10,15,1,87,0
+CUST-1214,Retail,Healthcare,Sharjah,4,5483.11,10,8,0,1,8,0
+CUST-1215,Enterprise,Retail,Riyadh,39,13401.42,27,2,10,5,125,1
+CUST-1216,SME,Retail,Sharjah,5,1274.98,7,3,10,3,152,1
+CUST-1217,Retail,Food & Beverage,Riyadh,25,864.76,53,5,20,0,114,1
+CUST-1218,Government,Logistics,Sharjah,27,5305.97,12,4,5,4,107,1
+CUST-1219,Government,Logistics,Abu Dhabi,27,9666.66,5,5,10,5,117,1
+CUST-1220,SME,Healthcare,Sharjah,24,7306.12,47,0,0,0,174,0
+CUST-1221,Retail,Logistics,Riyadh,8,12081.53,5,5,5,0,14,0
+CUST-1222,Retail,Logistics,Sharjah,40,4280.51,8,7,15,4,81,1
+CUST-1223,SME,Construction,Doha,1,13159.81,45,10,0,2,130,1
+CUST-1224,SME,Food & Beverage,Abu Dhabi,4,7473.82,34,2,15,5,76,0
+CUST-1225,Enterprise,Food & Beverage,Dubai,21,5067.73,36,2,20,1,80,0
+CUST-1226,SME,Healthcare,Dubai,17,7033.41,37,0,0,4,18,0
+CUST-1227,SME,Food & Beverage,Sharjah,45,1148.09,16,1,10,0,142,0
+CUST-1228,Enterprise,Retail,Riyadh,2,7458.51,20,1,0,3,31,0
+CUST-1229,Government,Logistics,Abu Dhabi,23,3225.23,35,0,5,4,62,0
+CUST-1230,SME,Construction,Doha,31,7838.97,59,0,20,5,35,0
+CUST-1231,Retail,Healthcare,Abu Dhabi,13,5506.79,28,3,0,0,136,0
+CUST-1232,Retail,Food & Beverage,Sharjah,12,11076.82,24,10,15,2,81,0
+CUST-1233,Enterprise,Logistics,Abu Dhabi,4,9947.93,38,10,20,2,65,0
+CUST-1234,Enterprise,Logistics,Riyadh,31,4683.49,52,5,5,3,71,0
+CUST-1235,Government,Construction,Doha,22,10313.57,17,9,0,1,69,0
+CUST-1236,Government,Food & Beverage,Riyadh,18,6329.12,29,0,0,3,64,0
+CUST-1237,Government,Healthcare,Abu Dhabi,44,7543.75,56,4,5,3,116,0
+CUST-1238,Retail,Retail,Abu Dhabi,13,13220.42,53,8,10,4,124,1
+CUST-1239,SME,Construction,Dubai,12,8579.59,19,1,15,0,110,0
+CUST-1240,Government,Healthcare,Riyadh,34,8825.23,32,1,15,1,74,0
+CUST-1241,Enterprise,Healthcare,Doha,10,5236.86,17,5,0,0,171,0
+CUST-1242,SME,Logistics,Riyadh,16,14711.83,56,5,5,3,151,0
+CUST-1243,SME,Healthcare,Dubai,5,6458.04,51,6,5,2,39,0
+CUST-1244,Enterprise,Construction,Sharjah,15,1381.74,21,3,0,2,50,0
+CUST-1245,Government,Healthcare,Sharjah,12,13562.23,32,2,15,1,34,0
+CUST-1246,Government,Construction,Dubai,12,10408.4,6,7,0,1,124,1
+CUST-1247,Retail,Healthcare,Sharjah,46,13098.29,35,9,10,3,98,1
+CUST-1248,Government,Logistics,Dubai,10,7187.53,34,9,0,1,135,1
+CUST-1249,SME,Retail,Sharjah,31,14590.59,47,2,5,1,140,0
+CUST-1250,Government,Construction,Sharjah,3,14105.86,16,1,10,0,165,1
+CUST-1251,SME,Construction,Dubai,14,7156.41,45,8,5,5,14,1
+CUST-1252,SME,Construction,Dubai,10,2776.7,34,9,0,1,72,0
+CUST-1253,Retail,Healthcare,Sharjah,4,7513.02,18,5,10,1,172,1
+CUST-1254,Government,Logistics,Doha,12,13049.04,18,9,10,0,175,1
+CUST-1255,Government,Healthcare,Dubai,44,2677.84,32,4,20,4,144,1
+CUST-1256,Retail,Healthcare,Abu Dhabi,40,14170.67,3,7,20,1,12,0
+CUST-1257,SME,Food & Beverage,Dubai,2,12502.39,29,3,10,4,119,1
+CUST-1258,Enterprise,Food & Beverage,Dubai,7,1420.53,39,9,15,2,74,0
+CUST-1259,Government,Retail,Sharjah,25,8449.13,44,9,10,3,84,0
+CUST-1260,Enterprise,Food & Beverage,Dubai,36,4622.87,27,9,0,5,124,1
+CUST-1261,SME,Logistics,Dubai,35,10866.01,40,1,0,5,112,1
+CUST-1262,Enterprise,Healthcare,Doha,22,13967.45,23,7,0,5,39,1
+CUST-1263,Enterprise,Logistics,Dubai,24,1589.6,39,9,10,5,100,1
+CUST-1264,Retail,Retail,Doha,43,9225.39,29,10,0,3,81,0
+CUST-1265,SME,Food & Beverage,Abu Dhabi,44,3130.32,49,0,10,0,165,0
+CUST-1266,Enterprise,Retail,Riyadh,32,10673.89,7,10,0,5,29,1
+CUST-1267,Enterprise,Healthcare,Riyadh,39,12450.24,23,3,5,1,35,0
+CUST-1268,Retail,Retail,Sharjah,46,3010.27,28,2,15,4,40,0
+CUST-1269,Government,Healthcare,Dubai,47,10849.29,56,10,0,3,29,0
+CUST-1270,Enterprise,Retail,Sharjah,15,12503.9,58,0,0,0,172,0
+CUST-1271,Government,Retail,Dubai,28,2982.4,7,2,15,4,148,1
+CUST-1272,Enterprise,Construction,Dubai,5,1440.97,24,9,0,3,173,1
+CUST-1273,Enterprise,Healthcare,Riyadh,12,4290.84,2,1,0,2,167,0
+CUST-1274,SME,Food & Beverage,Riyadh,31,13552.67,27,3,5,5,56,0
+CUST-1275,Government,Logistics,Dubai,31,13961.98,52,10,20,0,179,1
+CUST-1276,Enterprise,Retail,Abu Dhabi,40,14523.56,37,3,0,2,139,0
+CUST-1277,Government,Healthcare,Abu Dhabi,41,5766.15,56,3,5,0,172,0
+CUST-1278,Enterprise,Logistics,Riyadh,45,8601.64,53,7,20,0,11,0
+CUST-1279,Enterprise,Healthcare,Abu Dhabi,18,10138.09,51,9,0,2,164,1
+CUST-1280,Retail,Logistics,Dubai,12,9709.64,34,9,10,4,43,1
+CUST-1281,Government,Logistics,Riyadh,16,4889.26,38,4,0,5,18,0
+CUST-1282,Retail,Construction,Doha,21,10473.34,58,6,0,3,38,0
+CUST-1283,Government,Healthcare,Abu Dhabi,6,11609.36,29,6,10,1,15,0
+CUST-1284,Government,Logistics,Abu Dhabi,16,9669.94,35,9,0,1,116,1
+CUST-1285,Government,Healthcare,Abu Dhabi,1,14405.83,40,3,5,4,34,0
+CUST-1286,Enterprise,Logistics,Riyadh,33,6484.77,1,8,0,4,90,1
+CUST-1287,Enterprise,Healthcare,Dubai,33,4822.71,54,6,0,4,177,1
+CUST-1288,Retail,Healthcare,Dubai,23,9689.18,34,10,10,2,80,0
+CUST-1289,Retail,Food & Beverage,Riyadh,2,10462.88,34,3,0,5,162,1
+CUST-1290,Retail,Food & Beverage,Dubai,2,12964.8,47,6,0,0,144,1
+CUST-1291,Government,Logistics,Dubai,42,5882.38,47,10,10,3,8,0
+CUST-1292,Enterprise,Construction,Sharjah,47,3620.99,50,1,5,2,43,0
+CUST-1293,Enterprise,Food & Beverage,Doha,46,11932.57,55,8,5,1,53,0
+CUST-1294,Retail,Healthcare,Riyadh,11,7415.56,34,2,0,5,152,1
+CUST-1295,Retail,Healthcare,Doha,29,7446.03,51,5,15,0,127,0
+CUST-1296,SME,Construction,Riyadh,8,1140.05,45,8,0,0,131,1
+CUST-1297,SME,Construction,Sharjah,3,7995.8,53,1,5,1,45,0
+CUST-1298,SME,Retail,Abu Dhabi,22,6094.56,35,4,20,2,97,0
+CUST-1299,SME,Construction,Doha,21,13409.5,2,7,10,3,101,1
+CUST-1300,Retail,Logistics,Dubai,48,6082.28,38,5,0,5,104,1
+CUST-1301,Government,Retail,Sharjah,28,13315.74,48,4,15,3,75,0
+CUST-1302,SME,Retail,Dubai,2,2205.56,16,3,0,4,106,1
+CUST-1303,Government,Construction,Riyadh,25,7171.38,24,2,15,3,127,0
+CUST-1304,SME,Logistics,Dubai,40,14839.66,54,6,0,1,158,1
+CUST-1305,Enterprise,Healthcare,Abu Dhabi,42,12623.68,50,8,15,2,175,1
+CUST-1306,Retail,Construction,Doha,4,13075.37,59,0,20,2,150,1
+CUST-1307,SME,Construction,Riyadh,14,9199.72,22,6,5,0,140,1
+CUST-1308,Enterprise,Food & Beverage,Riyadh,10,9180.68,25,4,5,0,31,0
+CUST-1309,Retail,Healthcare,Dubai,12,10567.25,11,6,20,5,107,1
+CUST-1310,Government,Healthcare,Abu Dhabi,36,6427.36,50,1,0,4,137,1
+CUST-1311,Government,Logistics,Sharjah,38,10175.71,2,7,10,3,18,0
+CUST-1312,SME,Retail,Dubai,25,8618.56,29,9,20,1,146,1
+CUST-1313,Retail,Construction,Doha,33,4696.97,12,1,0,0,32,0
+CUST-1314,SME,Food & Beverage,Sharjah,39,6190.67,10,5,20,0,23,0
+CUST-1315,SME,Healthcare,Sharjah,22,9715.18,9,8,5,5,152,1
+CUST-1316,Retail,Construction,Dubai,25,9848.99,17,0,15,5,45,0
+CUST-1317,Government,Retail,Dubai,19,626.69,30,1,5,5,80,0
+CUST-1318,SME,Construction,Sharjah,2,8244.52,2,6,0,0,173,1
+CUST-1319,Enterprise,Logistics,Sharjah,47,5299.3,6,4,5,0,75,0
+CUST-1320,SME,Food & Beverage,Doha,46,9800.16,33,8,5,1,48,0
+CUST-1321,Government,Construction,Sharjah,7,8642.33,14,9,5,4,48,1
+CUST-1322,Government,Construction,Doha,19,10884.5,26,8,20,5,60,1
+CUST-1323,Enterprise,Healthcare,Sharjah,23,9050.07,3,0,10,5,136,1
+CUST-1324,SME,Healthcare,Dubai,21,2999.19,18,0,20,5,110,1
+CUST-1325,Government,Food & Beverage,Sharjah,33,12989.48,27,10,20,5,117,1
+CUST-1326,Retail,Retail,Riyadh,10,9874.3,29,1,0,4,18,0
+CUST-1327,Enterprise,Construction,Riyadh,10,4930.8,46,9,5,5,17,1
+CUST-1328,Enterprise,Logistics,Abu Dhabi,15,957.59,33,5,10,2,118,1
+CUST-1329,SME,Retail,Doha,27,11350.81,23,7,0,4,165,1
+CUST-1330,Government,Logistics,Doha,32,12035.8,7,2,20,3,115,0
+CUST-1331,Retail,Food & Beverage,Sharjah,14,11890.39,20,7,0,5,141,1
+CUST-1332,Government,Food & Beverage,Abu Dhabi,27,1012.69,8,3,20,1,115,0
+CUST-1333,Government,Healthcare,Riyadh,30,12330.34,58,4,10,0,106,0
+CUST-1334,Enterprise,Construction,Riyadh,2,10496.36,34,5,15,0,88,0
+CUST-1335,SME,Food & Beverage,Abu Dhabi,25,6220.74,14,9,5,1,20,0
+CUST-1336,Retail,Logistics,Dubai,8,2481.63,24,4,15,4,36,0
+CUST-1337,Retail,Food & Beverage,Riyadh,43,14400.16,41,1,0,0,68,0
+CUST-1338,Enterprise,Retail,Riyadh,33,3373.99,8,4,0,3,138,0
+CUST-1339,Government,Food & Beverage,Dubai,37,1341.83,53,3,5,2,155,0
+CUST-1340,Enterprise,Healthcare,Doha,36,9185.88,58,0,5,2,109,0
+CUST-1341,Enterprise,Retail,Dubai,31,7322.82,26,5,5,4,71,0
+CUST-1342,Enterprise,Logistics,Doha,43,8752.21,35,6,5,2,132,1
+CUST-1343,Enterprise,Food & Beverage,Riyadh,39,14753.48,45,2,10,5,47,0
+CUST-1344,Retail,Healthcare,Dubai,10,7944.0,43,1,5,3,111,0
+CUST-1345,Government,Retail,Doha,4,7952.14,32,2,20,3,52,0
+CUST-1346,Government,Logistics,Doha,9,2609.09,4,9,20,2,53,0
+CUST-1347,Government,Retail,Doha,5,3623.71,60,10,20,4,148,1
+CUST-1348,Enterprise,Healthcare,Doha,15,5490.6,10,3,0,0,98,0
+CUST-1349,SME,Retail,Sharjah,19,12919.09,40,7,15,2,101,1
+CUST-1350,Retail,Healthcare,Abu Dhabi,26,6852.81,17,1,15,0,53,0
+CUST-1351,Enterprise,Construction,Dubai,21,8438.61,34,5,5,2,119,0
+CUST-1352,Enterprise,Retail,Dubai,14,1889.49,12,4,5,4,153,1
+CUST-1353,Retail,Healthcare,Riyadh,15,11662.5,50,4,15,5,85,0
+CUST-1354,Retail,Healthcare,Sharjah,32,10855.38,41,5,15,3,77,0
+CUST-1355,Retail,Retail,Dubai,17,7254.15,28,0,10,2,149,0
+CUST-1356,Government,Logistics,Riyadh,17,4822.1,31,0,15,1,54,0
+CUST-1357,Government,Food & Beverage,Doha,28,5498.45,4,8,10,4,40,1
+CUST-1358,Retail,Food & Beverage,Sharjah,25,2554.0,44,7,0,5,10,1
+CUST-1359,Enterprise,Construction,Dubai,8,1103.03,23,7,15,5,137,1
+CUST-1360,Government,Construction,Sharjah,29,13554.87,14,10,10,4,121,1
+CUST-1361,Enterprise,Construction,Dubai,45,2130.08,43,4,20,4,156,1
+CUST-1362,Government,Healthcare,Riyadh,12,7129.46,59,6,5,0,59,0
+CUST-1363,Enterprise,Retail,Sharjah,15,3067.06,51,6,0,4,149,1
+CUST-1364,Enterprise,Construction,Sharjah,42,13424.95,8,8,0,1,134,1
+CUST-1365,Retail,Retail,Abu Dhabi,18,3086.14,53,2,20,5,173,1
+CUST-1366,Enterprise,Logistics,Doha,34,8407.66,22,6,20,5,82,1
+CUST-1367,Retail,Food & Beverage,Doha,5,8983.69,26,6,15,5,28,1
+CUST-1368,Enterprise,Logistics,Doha,39,14628.77,35,10,20,1,62,0
+CUST-1369,Government,Retail,Dubai,33,5715.74,21,4,0,3,102,0
+CUST-1370,SME,Retail,Abu Dhabi,14,1370.13,19,5,0,4,90,0
+CUST-1371,SME,Construction,Riyadh,24,5026.73,19,3,15,2,30,0
+CUST-1372,SME,Construction,Riyadh,32,7470.82,59,2,20,3,174,0
+CUST-1373,SME,Healthcare,Sharjah,45,6568.64,4,9,0,1,155,1
+CUST-1374,Government,Retail,Sharjah,12,9220.6,30,9,10,4,119,1
+CUST-1375,SME,Retail,Dubai,10,8281.05,26,7,20,1,40,0
+CUST-1376,SME,Retail,Sharjah,17,10307.66,57,0,15,1,165,0
+CUST-1377,Government,Retail,Doha,23,12183.97,20,8,0,4,102,1
+CUST-1378,Enterprise,Food & Beverage,Dubai,43,6465.9,46,5,0,2,165,0
+CUST-1379,SME,Retail,Abu Dhabi,13,9810.67,51,9,10,1,130,1
+CUST-1380,Enterprise,Retail,Riyadh,17,5680.35,32,1,0,0,96,0
+CUST-1381,Government,Healthcare,Dubai,1,9358.0,52,1,5,3,19,0
+CUST-1382,SME,Logistics,Abu Dhabi,4,14977.29,31,1,0,0,20,0
+CUST-1383,Enterprise,Logistics,Riyadh,47,5781.62,43,5,0,2,58,0
+CUST-1384,Retail,Retail,Doha,37,4041.53,26,7,0,0,56,0
+CUST-1385,SME,Logistics,Dubai,24,8905.98,34,8,10,4,62,1
+CUST-1386,Government,Retail,Abu Dhabi,31,10990.01,59,6,20,2,43,0
+CUST-1387,Enterprise,Retail,Riyadh,46,14357.04,51,0,20,3,52,0
+CUST-1388,Retail,Retail,Riyadh,42,8787.58,49,8,0,4,155,1
+CUST-1389,Retail,Retail,Riyadh,2,1525.0,38,7,20,3,84,0
+CUST-1390,Government,Logistics,Riyadh,42,1699.84,29,2,20,4,81,0
+CUST-1391,Enterprise,Food & Beverage,Doha,9,14982.13,57,10,10,5,141,1
+CUST-1392,Government,Logistics,Dubai,1,5748.74,42,0,20,0,65,0
+CUST-1393,SME,Retail,Riyadh,47,12627.14,59,5,5,4,78,0
+CUST-1394,Government,Logistics,Doha,32,1948.88,18,2,0,4,9,0
+CUST-1395,Government,Retail,Dubai,26,8510.55,24,3,10,1,75,0
+CUST-1396,Government,Logistics,Abu Dhabi,1,1307.32,10,7,20,4,62,1
+CUST-1397,Government,Food & Beverage,Abu Dhabi,14,13495.05,1,2,0,5,95,1
+CUST-1398,SME,Logistics,Doha,41,7257.93,23,8,20,1,120,1
+CUST-1399,Enterprise,Healthcare,Doha,34,12994.35,43,5,15,1,66,0
